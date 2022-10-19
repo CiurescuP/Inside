@@ -1,0 +1,16 @@
+p {
+   font-weight: 400;
+   font-size: 18rem;
+   text-align: center;
+   background-image: url("cover.jpg");
+   background-size: 20%;
+   text-transform: uppercase;
+   -webkit-background-clip: text;
+   background-clip: text;
+   color: transparent;
+}
+
+body {
+    background-image: url("background.jpg");
+    background-position: top;
+}
